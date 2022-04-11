@@ -1,0 +1,19 @@
+.divHome{
+    /* padding-right: 200px;
+    padding-left: 200px; */
+    padding-bottom:100px;
+    /* border: 1px solid; */
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 15px;
+ }
+ .hanH1{
+     font-size:30px;
+     padding-bottom:20px;
+ }
+ .hanH2{
+     font-size:20px;
+     padding-bottom:50px;
+ }
+ .img-home{
+   height: 100px;
+ }
